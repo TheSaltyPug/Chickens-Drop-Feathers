@@ -1,0 +1,17 @@
+{
+     "criteria": {
+          "trigger": {
+               "trigger": "minecraft:tick"
+          }
+     },
+     "display": {
+          "announce_to_chat": false,
+          "description": "Chickens have a chance to drop a feather when they lay an egg",
+          "icon": {
+               "item": "minecraft:feather"
+          },
+          "show_toast": false,
+          "title": "Chickens Drop Feathers"
+     },
+     "parent": "global:tsp"
+}
